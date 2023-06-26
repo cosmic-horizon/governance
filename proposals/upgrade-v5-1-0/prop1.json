@@ -1,0 +1,18 @@
+{
+ "messages": [
+  {
+   "@type": "/cosmos.upgrade.v1beta1.MsgSoftwareUpgrade",
+   "authority": "qwoyn10d07y265gmmuvt4z0w9aw880jnsr700j8zjm3j",
+   "plan": {
+    "name": "v5.1.0",
+    "height": "280850",
+    "info": "",
+    "upgraded_client_state": null
+   }
+  }
+ ],
+ "metadata": "ipfs://bafkreifew465ggl4fush7m3hhsrpt5vxlccj4lflcedxobphtstjmkdici",
+ "deposit": "2000000000uqwoyn",
+ "title": "Codename: Event Horizon - qwoynd v5.1.0 upgrade.",
+ "summary": "Please see https://commonwealth.im/qwoyn-network/discussion/11774-coho-token-initial-mint-and-internal-lp-integration-qwoyndv510"
+}
