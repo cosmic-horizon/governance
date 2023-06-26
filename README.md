@@ -1,8 +1,8 @@
 # Qwoyn Network Governance
 
-This repository includes long-form proposals and supporting documentation for Qwoyn Network governance.
+The Qwoyn Network governance repository contains comprehensive proposals and accompanying documents.
 
-It is not required that community members submit proposals to this repository or that they use this repository for long-form proposals and supporting documentation but pull requests are more than welcome. With that being said, any significant changes to the guidelines should go through the governance process in the form of a text proposal.
+Submitting proposals or utilizing this repository for long-form proposals and supporting documentation is not mandatory for community members, but we highly encourage pull requests. However, please note that any substantial alterations to the guidelines must follow the governance process by submitting a text proposal.
 
 ## Contents
 
