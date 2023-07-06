@@ -1,0 +1,12 @@
+{
+    "@type": "/cosmos.params.v1beta1.ParameterChangeProposal",
+    "title": "Proposal to Update Game Module's deposit_denom Parameter to $COHO",
+    "description": "The Qwoyn Network is proposing an update to the Game Module's deposit_denom parameter, changing it to $COHO to align with the implementation of the internal LP functionality. This update aims to bring consistency, simplify operations, and enhance the utility of $COHO within the network. The community is encouraged to review the proposal, provide feedback, and actively participate in shaping the future of decentralized gaming on the Qwoyn Network.\n\n**Voting:** A yes vote will update the deposit_denom to $COHO.\n\nFor more information please visit the Qwoyn Network Governance Forum - https://commonwealth.im/qwoyn-network/discussion/12042-proposal-to-update-game-modules-deposit_denom-parameter-to-coho",
+    "changes": [
+        {
+            "subspace": "game",
+            "key": "DepositDenom",
+            "value": "ucoho"
+        }
+    ]
+}
