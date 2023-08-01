@@ -1,0 +1,18 @@
+{
+ "messages": [
+  {
+   "@type": "/cosmos.upgrade.v1beta1.MsgSoftwareUpgrade",
+   "authority": "qwoyn10d07y265gmmuvt4z0w9aw880jnsr700j8zjm3j",
+   "plan": {
+    "name": "v5.2.0",
+    "height": "805404",
+    "info": "",
+    "upgraded_client_state": null
+   }
+  }
+ ],
+ "metadata": "ipfs://bafkreig2gm47npcuwpi3wev3rocxhrr662sp7tjfsfz7x7bthqxoea7wg4",
+ "deposit": "2000000000uqwoyn",
+ "title": "Codename: Relativity - qwoynd v5.2.0 upgrade.",
+ "summary": "Please see https://commonwealth.im/qwoyn-network/discussion/12044-qwoyn-network-chain-upgrade-to-version-521"
+}
