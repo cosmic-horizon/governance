@@ -1,0 +1,19 @@
+{
+ "messages": [
+  {
+   "@type": "/cosmos.distribution.v1beta1.MsgCommunityPoolSpend",
+   "authority": "qwoyn10d07y265gmmuvt4z0w9aw880jnsr700j8zjm3j",
+   "recipient": "qwoyn1efftazlsv6lejspj436knsv2fjzrn8jxcwxwx7",
+   "amount": [
+     {
+       "denom": "uqwoyn",
+       "amount": "500000000000"
+     }
+   ]
+  }
+ ],
+ "metadata": "ipfs://bafkreidpoaziydqyojju2slkknw7nke42ayjcujizybjvniuzb4vevhvh4",
+ "deposit": "2000000000uqwoyn",
+ "title": "Allocating 500k QWOYN Tokens to the Aquifer Committee",
+ "summary": "The Aquifer Committee, hereby propose the allocation of 500,000 QWOYN tokens from the Qwoyn Network community spend pool."
+}

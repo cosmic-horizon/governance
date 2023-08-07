@@ -1,0 +1,19 @@
+{
+ "messages": [
+  {
+   "@type": "/cosmos.distribution.v1beta1.MsgCommunityPoolSpend",
+   "authority": "qwoyn10d07y265gmmuvt4z0w9aw880jnsr700j8zjm3j",
+   "recipient": "qwoyn1mqtnspwqmuqpwera2p24j0gy0v5ajz9kh0f0q7",
+   "amount": [
+     {
+       "denom": "uqwoyn",
+       "amount": "6000000000"
+     }
+   ]
+  }
+ ],
+ "metadata": "ipfs://bafkreigrdzszk2vy2lig5o6fs7ndcakwmdl6isxrix7sb57trh7lnrog6e",
+ "deposit": "2000000000uqwoyn",
+ "title": "Reimbursement of 6000 QWOYN Tokens for Notional Integration",
+ "summary": "The Community Spend Committee proposes the allocation of 6000 QWOYN tokens from the community spend pool. Forum: https://commonwealth.im/qwoyn-network/discussion/12547-proposal-for-reimbursement-of-6000-qwoyn-tokens-for-notional-integration"
+}
