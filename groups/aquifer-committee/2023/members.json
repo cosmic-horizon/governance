@@ -1,0 +1,19 @@
+{
+   "members": [
+      {
+	"address": "qwoyn1tdeyh5v6qvquws6e7c282s2ld4lz93xmnxxgq7",
+	"weight": "1",
+	"metadata": "Danny Qwoyn - President"
+      },
+      {
+        "address": "qwoyn1hsafk3cfrdcn2qjar7awz68qhmlj6tz27j4ah4",
+        "weight": "1",
+        "metadata": "Badgerbite - Treasurer"
+      },
+      {
+        "address": "qwoyn12hekpy5fz4zuyxrk962k6q7drc3mwkg8ujexgp",
+        "weight": "1",
+        "metadata": "Lofingv - Secretary"
+      }
+   ]
+}

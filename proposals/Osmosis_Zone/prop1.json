@@ -1,0 +1,39 @@
+{
+  "title": "Add MsgCreateBalancerPool into Approved ICA Messages list",
+  "description": "The proposal seeks approval for integrating MsgCreateBalancerPool into the approved ICA (Inter-Chain Account) messages on the Osmosis Mainnet. This integration aims to enable the Qwoyn Aquifer module's on-chain, decentralized solution, facilitating the creation of liquidity pools and incentivizing community involvement for new projects in the Cosmos ecosystem.\n\n**Forum Link:** https://forum.osmosis.zone/t/adding-msgcreatebalancerpool-into-approved-ica-messages-list/163",
+  "changes": [
+    {
+      "subspace": "icahost",
+      "key": "AllowMessages",
+      "value": [
+        "/ibc.applications.transfer.v1.MsgTransfer",
+        "/cosmos.bank.v1beta1.MsgSend",
+        "/cosmos.staking.v1beta1.MsgDelegate",
+        "/cosmos.staking.v1beta1.MsgBeginRedelegate",
+        "/cosmos.staking.v1beta1.MsgCreateValidator",
+        "/cosmos.staking.v1beta1.MsgEditValidator",
+        "/cosmos.staking.v1beta1.MsgUndelegate",
+        "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward",
+        "/cosmos.distribution.v1beta1.MsgSetWithdrawAddress",
+        "/cosmos.distribution.v1beta1.MsgWithdrawValidatorCommission",
+        "/cosmos.distribution.v1beta1.MsgFundCommunityPool",
+        "/cosmos.gov.v1beta1.MsgVote",
+        "/osmosis.gamm.v1beta1.MsgJoinPool",
+        "/osmosis.gamm.v1beta1.MsgExitPool",
+        "/osmosis.gamm.v1beta1.MsgSwapExactAmountIn",
+        "/osmosis.gamm.v1beta1.MsgSwapExactAmountOut",
+        "/osmosis.gamm.v1beta1.MsgJoinSwapExternAmountIn",
+        "/osmosis.gamm.v1beta1.MsgJoinSwapShareAmountOut",
+        "/osmosis.gamm.v1beta1.MsgExitSwapExternAmountOut",
+        "/osmosis.gamm.v1beta1.MsgExitSwapShareAmountIn",
+        "/osmosis.superfluid.MsgSuperfluidUnbondLock",
+        "/osmosis.lockup.MsgLockTokens",
+        "/osmosis.lockup.MsgBeginUnlocking",
+        "/cosmwasm.wasm.v1.MsgExecuteContract",
+        "/cosmwasm.wasm.v1.MsgInstantiateContract",
+        "/osmosis.gamm.poolmodels.balancer.v1beta1.MsgCreateBalancerPool"
+      ]
+    }
+  ],
+  "deposit": "1600000000uosmo"
+}
